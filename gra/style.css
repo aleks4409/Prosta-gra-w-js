@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+#szukaj {
+  position: absolute;
+  left: 400px;
+  top: 300px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+#obrazek {
+  position: absolute;
+  margin-left: 0px;
+  top: 300px;
+  width: 50px;
+  height: 50px;
+}
+#caly {
+  width: 800px;
+  height: 600px;
+  background-color: lightgreen;
+  margin: 0px;
+  padding: 0px;
+}
+#obrazek2 {
+  width: 50px;
+  height: 50px;
+}
